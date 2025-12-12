@@ -45,7 +45,7 @@ python3 generate_audio_features.py
 ```
 
 # Training and inference
-Upon completion of dataset preparation, move the adapter_copy.py to the training directory within Whispering-LLama directory
+Upon completion of dataset preparation, run the adapter_copy.py from Whispering_LLama directory
 
 - Provide lit-llama petrained path and run as
   ```bash
