@@ -1,0 +1,17 @@
+name: speech-error
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy<2
+  - librosa
+  - soxr
+  - scipy
+  # - soundfile
+  - audioread
+  - pandas
+  - configparser
+  - tensorflow
+  - keras
+  - tensorboard
