@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 
 # Dataset preparation
-#### `data_preparation/`
+#### `speech_error_classification/data_preparation/`
 
 To Generate json files for respective podcast run as
 ```bash
